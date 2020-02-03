@@ -6,6 +6,9 @@
   "repository": "shoheihagiwara/shoheihagiwara-cli",
   "author": "Shohei Hagiwara <hagiwara.shohei@gmail.com>",
   "bin": "src/cli.js",
+  "scripts": {
+    "test": "ava -v"
+  },
   "engines": {
     "node": ">=8"
   },
@@ -25,5 +28,8 @@
     "opn": "^5.3.0",
     "term-img": "^2.1.0",
     "terminal-image": "^0.1.1"
+  },
+  "devDependencies": {
+    "ava": "^3.2.0"
   }
 }
