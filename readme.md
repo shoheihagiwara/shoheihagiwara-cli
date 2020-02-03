@@ -1,6 +1,7 @@
 # shoheihagiwara
+shoheihagiwara CLI
 
-> shoheihagiwara CLI
+![Node.js CI](https://github.com/shoheihagiwara/shoheihagiwara-cli/workflows/Node.js%20CI/badge.svg)
 
 ## Usage
 
